@@ -62,7 +62,7 @@ byte pair encoding, which hasn’t been made visible to us by hugging face.
 technologies like Flask , Javascript and MySQL.
 
 ● We also explored various Natural language processing techniques and models such as the
-BERT model , Haystack and Hugging face library along with preprocessing of text .
+BERT model , Haystack model and Hugging face library along with preprocessing of text .
 
 ● The use of text retrieval algorithm like the BM25 algorithm ,document reader such as
 FarmReader , document storing using Elastic Search and pipelining was explored during
